@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
-import Counter from "./Counter";
 import { useSelector, useStore } from "react-redux";
+
+import Counter from "./Counter";
 import Todo from "./Todo";
 
 function App() {
